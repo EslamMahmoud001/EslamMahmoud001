@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there, I'm Eslam 👋
 
-<!--
-**EslamMahmoud001/EslamMahmoud001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Aeronautical Engineering graduate who found a passion for building things with code.  
+These days, I'm focused on backend development and exploring the world of data science.
 
-Here are some ideas to get you started:
+## 💻 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Build backend apps with **Python** & **Django**
+- Work with **SQL** and **Tableau** to make sense of data
+- Constantly learning more about **Machine Learning** & **Data Analysis**
+
+## 🚀 Tech Stack
+
+- 🐍 Python, Django, DRF  
+- 🗄 SQL (PostgreSQL, MS SQL)  
+- 📊 Tableau, Pandas, NumPy  
+- 🛠 Git, VS Code
+
+
+## 📫 Let's Connect
+
+You can find me here:  
+[LinkedIn](www.linkedin.com/in/eslammahmoud01)
